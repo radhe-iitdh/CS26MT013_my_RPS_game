@@ -29,7 +29,7 @@ def main():
         print("Computer chose:", computer_choice)
 
         if player_choice == computer_choice:
-            print("It's a tie! Rematch!")
+            print("It's a tie! Let's Rematch!")
             continue
 
         elif (
